@@ -31,3 +31,7 @@ SGD - mnist_sgd_svhn_pred_scores.py
 Centralized ULA - mnist_sgld_svhn_pred_scores.py
 
 Decentralized ULA - mnist_dist_sgld_svhn_pred_scores.py
+
+
+
+All content in this repository is licensed under the MIT license.
